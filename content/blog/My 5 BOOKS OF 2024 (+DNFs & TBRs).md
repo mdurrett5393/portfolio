@@ -92,6 +92,7 @@ There’s a lot great little nuggets to digest about creativity in your personal
 This was much less focused on Obama’s personal life than I had hoped. The inside baseball of politics is honestly not what I was interested in, and it was probably just too relevant to the moment I was living through (that being the lead up to the 2024 Presidential Election—_**oof**_).
 
 But hearing someone in the White House speak with passion will be **sorely missed** for yet another four years. I may come back to this one, but it may be awhile before then.
+
 ![Be Useful - Arnold Schwarzenegger](assets/be-useful.jpg)
 ## _Be Useful by Arnold Schwarzenegger_
 
@@ -100,6 +101,7 @@ But hearing someone in the White House speak with passion will be **sorely miss
 Arnie is one of the most fascinating people to ever grace the silver screen, but I just _**didn’t find myself needing his words of inspiration**_ at this particular moment. He’s speaking to people who have no plan in particular, and needing some basic guidance on how to make one, and move in that direction with a specific vision.
 
 It’s **fantastic** advice, wrapped in fun stories from his very interesting life, but isn’t really for me at this moment in my life. That being said, there’s still a good few nuggets left, so we may revisit this one to finish it up soon.
+
 ![Cinema Speculation - Quentin Tarantino](assets/cinema-speculation.jpg)
 ## _Cinema Speculation by Quentin Tarantino_
 
@@ -108,6 +110,7 @@ It’s **fantastic** advice, wrapped in fun stories from his very interesting 
 Quentin is definitely a character in his own right. Like a lot of bios I’ve read, he focuses a lot of his energy and attention on the thing he loves—cinema—and _paints a picture of his life around that **central focus**_. This one is chalk full of name dropping that I had a hard time following, but I do wanna finish it, since I actually paid for it (lol).
 
 Similar to Obama’s book, _you have to respect the passion_ that he has for his craft and the work he’s put into it, and I want to give the time and attention it deserves.
+
 ![Against Technoableism - Ashley Shew](assets/against-technoableism.jpg)
 ## _Against Technoableism by Ashley Shew_
 
@@ -116,6 +119,7 @@ Similar to Obama’s book, _you have to respect the passion_ that he has for h
 This is an exploration into the issues with ableism, disability, and how many of the technologies that are designed to support them aren’t designed by the true experts: **the users themselves**. On top of that, I found out that the writer of this book is a professor at Virginia Tech, which I grew up right down the road from.
 
 There are a lot of different facets to this particular area that I haven’t really gotten into as much, so I’m hoping to revisit this one soon.
+
 ![American Prometheus - Kai Bird & Martin J. Sherwin](assets/american-prometheus.jpg)
 ## _American Prometheus by Kai Bird and Martin J Sherwin_
 
@@ -134,6 +138,7 @@ _Oh_, and _**he created the atomic bomb**_, or heavily contributed to it, as it
 This will be my first finished book of this year, and is one of my favorites I’ve read in quite awhile. Imagine a linguist breaks down the cultural significance of the language of cults, from the ones that end in death to the ones that end in shredded abs.
 
 _You don’t need to imagine that_—**this book is as exactly as nerdy as I had hoped**. I’ll report back on this one soon.
+
 ![Shogun - James Clavell](assets/shogun.jpg)
 ## _Shōgun, Part One by James Clavell_
 
@@ -142,6 +147,7 @@ _You don’t need to imagine that_—**this book is as exactly as nerdy as I had
 After watching this absolutely fantastic show, I wanted to dive into the pair of novels that inspired it. While this is fiction, it’s well researched fiction with some creative and dramatic liberties taken, so about as close to nonfiction as fiction can get. Did I say that f-word enough times? _**Not that one.**_
 
 Count this as exactly one book on my list that’s not nonfiction, but may as well be. _I didn’t say I wanted to change my reading preferences, did I?_
+
 ![iWoz - Steve Wozniak](assets/iwoz.jpg)
 ## _iWoz by Steve Wozniak_
 
@@ -150,6 +156,7 @@ Count this as exactly one book on my list that’s not nonfiction, but may as we
 I found a copy of this in a used book store after reading Oscar Isaacson’s exhausti—I mean exhaustive account of Steve Jobs’ life (_just kidding, it was an interesting read_). I can’t tell you how refreshing it was to see that something from Woz’s autobiographical perspective existed, and seemed to carry a more upbeat tone to it to boot.
 
 **Sly computer jargon humor aside**, the origins of personal computers as we know them are not attributed to Woz nearly enough, and I look forward to learning more about him.
+
 ![README.txt - Chelsea Manning](assets/readme.jpg)
 ## _README.txt by Chelsea Manning_
 
@@ -158,6 +165,7 @@ I found a copy of this in a used book store after reading Oscar Isaacson’s exh
 Chelsea Manning is not a name that I knew before, but when searching for more niche reads, I stumbled across her memoir. She is an activist in both her **personal** and **professional** lives, as a trans woman and a whistleblower within the intelligence community.
 
 As our society’s connection to technology evolves, and we also deal with the push-pull between it and so-called _“traditional values”_, her voice is an important one to hear.
+
 ![Doppleganger - Naomi Klein](assets/doppleganger.jpg)
 ## _Doppelganger by Naomi Klein_
 
