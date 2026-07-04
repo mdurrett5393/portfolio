@@ -270,6 +270,11 @@ layout:
         - reader-mode
       positions:
         right: []
+        footer:
+            - |
+              <footer style="padding: 1rem 0; font-size: 0.85rem; color: var(--gray);">
+                © 2026 Mike Durrett. All rights reserved.
+              </footer>
     tag:
       exclude:
         - reader-mode
