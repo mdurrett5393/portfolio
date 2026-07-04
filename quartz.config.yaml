@@ -211,10 +211,6 @@ plugins:
     layout:
       position: afterBody
       priority: 10
-  - source: github:quartz-community/footer
-    enabled: true
-    options:
-      links: {}
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
@@ -258,23 +254,12 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content:
-      positions:
-          footer:
-            - |
-              <footer style="padding: 1rem 0; font-size: 0.85rem; color: var(--gray);">
-                © 2026 Mike Durrett. All rights reserved.
-              </footer>
+    content: {}
     folder:
       exclude:
         - reader-mode
       positions:
         right: []
-        footer:
-            - |
-              <footer style="padding: 1rem 0; font-size: 0.85rem; color: var(--gray);">
-                © 2026 Mike Durrett. All rights reserved.
-              </footer>
     tag:
       exclude:
         - reader-mode
