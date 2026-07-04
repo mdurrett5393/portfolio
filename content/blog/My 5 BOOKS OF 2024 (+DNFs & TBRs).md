@@ -164,7 +164,7 @@ I found a copy of this in a used book store after reading Oscar Isaacson’s exh
 
 Chelsea Manning is not a name that I knew before, but when searching for more niche reads, I stumbled across her memoir. She is an activist in both her **personal** and **professional** lives, as a trans woman and a whistleblower within the intelligence community.
 
-As our society’s connection to technology evolves, and we also deal with the push-pull between it and so-called _“traditional values”_, her voice is an important one to hear.
+As our society’s connection to technology evolves, and we also deal with the push-pull between it and so-called _“traditional values”_, her voice is an important one to hear. 
 
 ![Doppleganger - Naomi Klein](assets/doppleganger.jpg)
 ## _Doppelganger by Naomi Klein_
