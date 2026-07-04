@@ -1,5 +1,5 @@
 ---
-title: 📚 My 5 BOOKS OF 2024 (+DNFs & TBRs)
+title: 📚 My 5 Books of 2024 (+DNFs & TBRs)
 description: Yes, you read that title correctly—I read a whole five books this year. For me, that's pretty great.
 date: 2025-01-06
 tags:
