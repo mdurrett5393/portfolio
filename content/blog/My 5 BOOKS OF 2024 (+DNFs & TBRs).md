@@ -181,4 +181,4 @@ Fast forward 10 years, and Naomi found herself in the same position of dealing w
 
 What even is a wheelhouse? Maybe I can read about that. _**Anyway**_—that’s my book list for ’24-’25!
 
-📕💻🎧 Time to get back to my books. 📕💻🎧
+📕💻🎧 Time to get back to my books. 📕💻🎧 
