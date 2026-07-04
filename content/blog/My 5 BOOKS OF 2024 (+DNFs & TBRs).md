@@ -18,3 +18,4 @@ By the way: All but one of these books were ones I borrowed from the library. If
 Let’s get into my list! ⬇️
 
 # *BOOKS I FINISHED* ✅
+![The Will to Change](assets/the-will-to-change.jpg)
