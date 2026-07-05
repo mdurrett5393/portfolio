@@ -1,6 +1,6 @@
 @use "./variables.scss" as *;
 
-// image formatting
+/* image formatting */
 #quartz-body img {
     display: block;
     width: 100%;
@@ -9,7 +9,7 @@
     border-radius: 8px;
 }
 
-// Hides "Link to original" on text embeds
-.internal-embed .file-link {
+/* Hides the link container for embedded files */
+.internal-embed.internal-link.transclude-src {
   display: none !important;
 }
