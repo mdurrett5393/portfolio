@@ -1,7 +1,6 @@
 ---
-title: Welcome to Quartz
+title: My work
 ---
-This is a test of the Quartz website I setup. 
-:) :P
+Welcome to my site! I have a lot of different areas of interest, and I wanted to create a central hub to track them.
 
 ![[about-me#]]
