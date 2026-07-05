@@ -1,5 +1,6 @@
 ---
 title: About Me
+draft: "true"
 ---
 <div class="about-me-container" style="display: flex; align-items: center; gap: 20px; padding: 20px; border: 1px solid var(--lightgray); border-radius: 8px;">
   <img src="assets/me.png" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0;">
