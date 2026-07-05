@@ -8,3 +8,8 @@
     margin: 1.5rem auto;
     border-radius: 8px;
 }
+
+// Hides "Link to original" on text embeds
+.internal-embed .file-link {
+  display: none !important;
+}
