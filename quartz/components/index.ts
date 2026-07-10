@@ -1,4 +1,3 @@
-import ArticleCover from "./ArticleCover"
 import NotFound from "./pages/404"
 import Head from "./Head"
 import Spacer from "./Spacer"
@@ -12,4 +11,6 @@ export { External } from "./external"
 export type { ComponentManifest, RegisteredComponent } from "./registry"
 export type { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-export { ArticleCover, Head, Spacer, DesktopOnly, MobileOnly, NotFound, Flex, ConditionalRender }
+export { Head, Spacer, DesktopOnly, MobileOnly, NotFound, Flex, ConditionalRender }
+
+export { default as ArticleCover } from "./ArticleCover"

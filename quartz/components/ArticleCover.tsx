@@ -1,6 +1,3 @@
-/** @jsx jsx */
-/** @jsxRuntime automatic */
-
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 const ArticleCover: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
